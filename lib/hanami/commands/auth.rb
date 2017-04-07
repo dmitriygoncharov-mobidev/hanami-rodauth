@@ -1,4 +1,4 @@
-require 'hanami/commands'
+require 'hanami/commands/command'
 
 module Hanami
   module Commands
